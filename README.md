@@ -1,0 +1,3 @@
+# StartHACK24 x PolliBit
+
+This repository contains a Deep Neural Network with three layers that analyzes soil, air, and weather data to suggest the most efficient crop for the next cultivation cycle. By considering factors like temperature, humidity, pH, rainfall, and the concentration of key chemicals such as nitrogen, phosphorus, and potassium, the program aims to optimize for minimal soil exhaustion and maximum productivity.
